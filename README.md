@@ -1,3 +1,3 @@
 # SPA-Reserva-de-Lockers-TSX
 
-Cambiar a a rama main
+Cambiar a a rama master
